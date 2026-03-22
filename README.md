@@ -1,0 +1,1 @@
+This project analyzes the relationship between mental health and social media usage using unsupervised machine learning (K-Means clustering). The goal was to identify hidden patterns and group users based on behavioral and lifestyle factors.
